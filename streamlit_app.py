@@ -3,6 +3,7 @@ import requests
 import io
 import os # Added for environment variables
 import time # Added for delay
+import wave # Added for wave module
 from dotenv import load_dotenv # Added for .env
 from pydub import AudioSegment
 import pydub.exceptions
