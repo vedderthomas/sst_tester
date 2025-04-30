@@ -1,0 +1,11 @@
+requests
+datasets
+evaluate
+jiwer
+numpy
+tqdm
+soundfile
+librosa
+pydub
+streamlit
+python-dotenv 
